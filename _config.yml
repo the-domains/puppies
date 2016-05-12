@@ -1,0 +1,28 @@
+name: Puppies
+favicon: null
+layout_spectrum: 0.5019490646664053
+typography_spectrum: 0.1587051881942898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.34415151830762625
+  lightness: 0.009173880098387599
+  saturation: 0.4393829684704542
+  rhythmicContrast: 0.9667946936096996
+purpose: []
